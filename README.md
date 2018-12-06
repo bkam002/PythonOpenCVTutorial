@@ -5,7 +5,7 @@ README for Python OpenCV Tutorial
 	•	These vision tracking apps will be made in Python (easiest to learn and adapt for vision). Quick run-down of Python: http://python4java.necaiseweb.org/
 
 	•	Installation process:
-			⁃	Download Anaconda from this website: https://www.anaconda.com/download/#macos
+			⁃	Download Anaconda from this website: https://www.anaconda.com/download
 			⁃	Follow this short tutorial on installing OpenCV on Anaconda: https://www.youtube.com/watch?v=sQ16qg9DoiQ
 
 	•	Instructional lectures on the youtube playlist: https://www.youtube.com/playlist?list=PLiHa1s-EL3vjr0Z02ihr6Lcu4Q0rnRvjm
